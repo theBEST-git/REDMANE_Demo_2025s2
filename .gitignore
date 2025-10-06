@@ -4,3 +4,4 @@ data/
 *.swp
 *.test.dat
 *.tsv
+config.env
